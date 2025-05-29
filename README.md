@@ -9,9 +9,9 @@
 
 ### 🚀 About
 
-Full Stack Developer with over 5 years of experience building and maintaining scalable web and mobile applications. Specialist in PHP, Laravel, ReactJS, and Python, focused on RESTful API integration, performance optimization, and agile methodologies.
+Full Stack Developer with 5+ years of experience designing and maintaining scalable web and mobile applications. Specialized in PHP, Laravel, ReactJS, and Python, with strong skills in RESTful API integration, performance optimization, and agile methodologies.
 
-Skilled in data analysis with Oracle and delivering high-impact solutions aligned with business needs. Proficient in problem-solving, continuous learning, and collaborating in dynamic teams.
+Experienced in data analysis with Oracle and delivering high-impact, business-aligned solutions. Known for problem-solving, continuous learning, and thriving in collaborative, fast-paced environments.
 
 ---
 
@@ -26,6 +26,7 @@ Skilled in data analysis with Oracle and delivering high-impact solutions aligne
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="ReactJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="NodeJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel"/>
+
 </p>
 
 #### 🎨 Front-End & UI
@@ -60,28 +61,28 @@ Skilled in data analysis with Oracle and delivering high-impact solutions aligne
 
 - 🧩 **Job Portal (HR Recruitment System)**  
   **Full Stack Developer | Personal Project Deployed at Unimed | 2024**  
-  Recruitment platform with candidate management, automatic triage, and analytics dashboard (Charts.js).  
+  Recruitment platform with automated candidate screening, management, and analytics (Charts.js).  
   🔹 Reduced hiring time by 40%; scaled to 11,000+ users and 1,200+ job listings.  
   🔹 Implemented Redis queues for 500+ daily resume uploads; optimized SQL for 10k+ records.  
   **Tech:** Laravel, Bootstrap, JavaScript, Livewire, jQuery, Charts.js, MySQL, Redis.
 
 - 🎓 **Training Management System**  
   **Full Stack Developer | Unimed Regional Jaú | 2024**  
-  Training platform with dynamic calendar, QR code tracking, and dashboards (ApexCharts).  
+  Training system with dynamic scheduling, QR code tracking, and interactive dashboards (ApexCharts).  
   🔹 Achieved 95%+ accuracy in attendance tracking; reduced onboarding time by 20%.  
   🔹 Enabled data-driven decisions with training ROI visualizations.  
   **Tech:** Laravel, Livewire, PostgreSQL, Bootstrap 5, JavaScript, ApexCharts.
 
 - 🧠 **Facial Biometrics System**  
   **Full Stack Developer (AI Integration Specialist) | Unimed Regional Jaú | 2024**  
-  Identity verification system using DeepStack AI and consent flow integration.  
+  Facial recognition system with DeepStack AI and consent flow integration.  
   🔹 Reached 99.7% facial recognition accuracy; reduced fraud risks.  
   🔹 Processed 300+ monthly transactions via HIPAA-compliant API.  
   **Tech:** Laravel, Python, DeepStack, RESTful API, Bootstrap.
 
 - 🏥 **Hospital Intranet System**  
   **Full Stack Developer & Systems Integrator | Unimed Regional Jaú | 2024**  
-  Modular intranet with automated reports, LDAP integration, and dashboards (ApexCharts).  
+  Intranet platform with departmental modules, automated reporting, and LDAP-integrated dashboards (ApexCharts).  
   🔹 Eliminated 100% of paper forms in 5 departments; cut report time by 65%.  
   🔹 Enabled SSO for 1,000+ staff using LDAP.  
   **Tech:** Laravel, Livewire, PostgreSQL, Tailwind CSS, ApexCharts, jQuery, LDAP.
