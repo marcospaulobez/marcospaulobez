@@ -117,10 +117,8 @@ Experienced in data analysis with Oracle and delivering high-impact, business-al
 
 ### 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcospaulobez&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulobez&layout=compact&theme=default" alt="Top Languages" height="150"/>
-</p>
+
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=marcospaulobez&color=blue" alt="Profile views"/>
